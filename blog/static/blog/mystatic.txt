@@ -1,0 +1,1 @@
+this is my new static file how we can access it.
